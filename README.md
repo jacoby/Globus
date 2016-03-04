@@ -47,11 +47,13 @@ Your account information is managed by GlobusID.org, and this includes setting y
 Within your application, you will need to set your Globus username and the path to your SSH keys.
 
 For example:
+```perl
     use lib '/home/globus_user/lib' ;
     use Globus ;
     my $g        = Globus->new() ;
     my $username = 'globus_user' ;
     $g->set_key_path('/home/globus_user/.ssh/id_globus') ;
+```
 
 ## Documentation
 
