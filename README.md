@@ -23,8 +23,8 @@ I wrote it using Net::OpenSSH.
 
 ## Dependencies
 
-[Perl](https://www.perl.org/)
-[Net::OpenSSH](https://metacpan.org/pod/Net::OpenSSH)
++ [Perl](https://www.perl.org/)
++ [Net::OpenSSH](https://metacpan.org/pod/Net::OpenSSH)
 
 ## To-Do
 
